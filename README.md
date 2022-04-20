@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @captainawesomejnr
 - 👀 I’m interested in Tech and coding for the micro:bit
-- 🌱 I’m currently learning how to code in JavaScript for micro:bit
+- 🌱 I’m currently learning how to code in Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by commenting on this repo
 
