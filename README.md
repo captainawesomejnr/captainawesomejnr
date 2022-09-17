@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @captainawesomejnr
 - 👀 I’m interested in Tech and coding for the micro:bit
 - 🌱 I’m currently learning how to code in Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my latest project, PythOS
 - 📫 You can reach me by commenting on this repo
 
 <!---
