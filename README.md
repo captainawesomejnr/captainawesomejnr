@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @captainawesomejnr
 - 👀 I’m interested in Home Assistant and Python coding
-- 🌱 I’m currently learning how to code in Python
-- 💞️ I’m looking to collaborate on my latest projects, [PythOS](https://github.com/PythOS-App), [HT-OS](https://github.com/HT-OS-App) and the [community-run Zune Go project for MakeCode Arcade systems](https://github.com/Zune-Go).
+- 🌱 I’m currently learning how to program in Python.
 - 📫 You can reach me by commenting on this repo, captainawesomejnr/captainawesomejnr
