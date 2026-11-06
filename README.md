@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @captainawesomejnr
-- 👀 I’m interested in Home Assistant and Python coding
-- 🌱 I’m currently learning how to program in Python.
-- 📫 You can reach me by commenting on this repo, captainawesomejnr/captainawesomejnr
+- 👀 I’m interested in Home Assistant and Python programming.
+- 🌱 I’m currently learning how to create better, more developer- and user-friendly programs in Python.
